@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack Web developement 
 - 🌱 I’m currently learning Html,Css,Js,Python,Java
 - 💞️ I’m looking forward to collaborate on Web projects
-- 📫 Feel free to contact me at faiqchouadryofficial@gmail.com
+- 📫 Feel free to contact me at faiqyousaf25@gmail.com
 
 <!---
 FaiqCh-456/FaiqCh-456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
