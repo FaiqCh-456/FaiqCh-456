@@ -1,7 +1,6 @@
 - 👋 Hi, I’m FAIQ YOUSAF
-- 👀 I’m interested in full stack Web developement 
-- 🌱 I’m currently learning Html,Css,Js,Python,Java
-- 💞️ I’m looking forward to collaborate on Web projects
+-  I’m interested in full stack Web developement 
+-  I’m looking forward to collaborate on Web projects
 - 📫 Feel free to contact me at faiqyousaf25@gmail.com
 
 <!---
