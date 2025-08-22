@@ -13,7 +13,7 @@
 ---
 
 ### 📫 Let's Connect!
-
+- 💼 [Website](https://portfolio-omega-brown-83.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/faiq-ch)
 - 🧠 Always open to collaborations, feedback, and tech conversations!
 
