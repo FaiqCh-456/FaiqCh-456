@@ -36,7 +36,7 @@ I'm a **Computer Science student** at COMSATS University Lahore with a passion f
   <a href="https://www.linkedin.com/in/faiq-ch" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-omega-brown-83.vercel.app/" target="_blank">
+  <a href="https://faiqyousaf.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
