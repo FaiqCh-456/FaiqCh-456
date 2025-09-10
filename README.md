@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Faiq
 
-I'm a **Computer Science student** at COMSATS University Lahore with a passion for building intelligent solutions. My expertise lies in **AI/ML** and **Full-Stack development**, where I merge deep learning with intuitive user experiences.
+I'm a **Computer Science student** at COMSATS University Lahore with a passion for building intelligent solutions. My expertise lies in **AI/ML(COMPUTER VISION)** and **Full-Stack development**, where I merge deep learning with intuitive user experiences.
 
 ---
 
