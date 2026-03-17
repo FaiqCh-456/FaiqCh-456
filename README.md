@@ -43,6 +43,4 @@ I'm a **Computer Science student** at COMSATS University Lahore with a passion f
 
 ---
 
-### ✨ Fun Fact
 
-> I believe in **learning in public** and growing through hands-on projects.
