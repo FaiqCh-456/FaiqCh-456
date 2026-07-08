@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Faiq
 
 🎓 Computer Science student at **COMSATS University Lahore**  
-💡 Focused on building **real-world AI systems** and **scalable full-stack applications**
+💡 Focused on building **real-world AI systems and automations** and **scalable full-stack applications**
 
-I specialize in **Computer Vision** and backend systems, with a strong interest in deploying models into production instead of just training them.
+I specialize in **Computer Vision and Smart automations** also backend systems, with a strong interest in deploying models into production instead of just training them.
 
 ---
 
@@ -13,7 +13,7 @@ I specialize in **Computer Vision** and backend systems, with a strong interest 
 - ⚙️ Developing backend services using **FastAPI** and integrating ML models
 - 🌐 Creating full-stack applications with the **MERN stack**
 - 📱 Exploring **React Native** for cross-platform mobile apps
-- 🧩 Practicing **Data Structures & Algorithms** to strengthen problem-solving
+- 🧩 Automating Manual Test cases using **Playwright**
 
 ---
 
